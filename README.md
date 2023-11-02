@@ -1,4 +1,4 @@
-# grocery_store_app
+# Grocery Store App
 
 This is a python project which will be a 3 tier application,
 1. Front end: UI is written in HTML/CSS/Javascript/Bootstrap
